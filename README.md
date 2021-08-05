@@ -10,3 +10,4 @@ Project setup
 and description(description of the title to be searched), if needed.
 3) run the java class as Java application for the test case to be executed (either ClearSearchHistory.java or SearchArticle.java)
 4) The result of the test execution can be seen by accessing the TestReport.html file present in the Reports folder
+5) Assertions are added as part of test pass or fail status that is logged in the test report
